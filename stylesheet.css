@@ -46,6 +46,9 @@ body {
   top: -2.5em;
   line-height: 2rem;
 }
+hr{
+    background-color: hsl(0, 0%, 71%);
+}
 .name {
   color: hsl(229, 23%, 23%);
   font-size: 18px;
